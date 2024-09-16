@@ -25,7 +25,7 @@ This repo is home to the Stellar CLI, the command-line multi-tool for running an
 For installation options see below, for usage instructions [see the full help docs](FULL_HELP_DOCS.md).
 
 ## Cookbook
-To understand how to get the most of the Stellar CLI, see the [Stellar CLI Cookbook](https://github.com/stellar/stellar-cli/tree/main/cookbook) for recipes and a collection of resources to teach you how to use the CLI. Examples of recipes included in the CLI cookbook include: send payments, manage contract lifecycle, extend contract instance/storage/wasm, and more.
+To understand how to get the most of the Stellar CLI, please see the [Stellar CLI Cookbook](https://github.com/stellar/stellar-cli/tree/main/cookbook). It offers recipes and resources on using the CLI, including examples of recipes like sending payments, managing contract lifecycle, extending contract instances, storage, WASM, and more.
 
 ## Installation
 Install the latest version from source:
